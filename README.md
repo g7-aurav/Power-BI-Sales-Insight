@@ -1,7 +1,7 @@
 # Power-BI-Sales-Insight
 Created and extracted the data from the database and Performed ETL using Power Query and Data Analysis Expressions(DAX).
-![Dashboard 1](https://user-images.githubusercontent.com/119726457/211077440-f0e70da9-c47b-4bab-8b1c-dde9fb6eaad6.jpg)
+![Dashboard 1](https://user-images.githubusercontent.com/119726457/211139039-eb0ecb7d-f367-442d-a7a8-2ec010cd2933.jpg)
 
-![Dashboard 2](https://user-images.githubusercontent.com/119726457/211077475-47a78bc7-473a-41a7-89b8-93e0dc7c2837.jpg)
+![Dashboard 2](https://user-images.githubusercontent.com/119726457/211139043-0b0e088e-5e85-4955-9cc1-1c9573624b38.jpg)
 
-![Dashboard 3](https://user-images.githubusercontent.com/119726457/211077495-754d348e-d4be-48eb-9016-fe3d29dbb51b.jpg)
+![Dashboard 3](https://user-images.githubusercontent.com/119726457/211139047-4b035170-9c03-49b8-aca0-2ed7e48b182f.jpg)
