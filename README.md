@@ -4,4 +4,5 @@ Created and extracted the data from the database and Performed ETL using Power Q
 
 ![Dashboard 2](https://user-images.githubusercontent.com/119726457/211139043-0b0e088e-5e85-4955-9cc1-1c9573624b38.jpg)
 
-![Dashboard 3](https://user-images.githubusercontent.com/119726457/211139047-4b035170-9c03-49b8-aca0-2ed7e48b182f.jpg)
+![Dashboard 3](https://user-images.githubusercontent.com/119726457/211261380-a9bb9cde-96d6-495a-9e8a-968c5122d15d.jpg)
+
